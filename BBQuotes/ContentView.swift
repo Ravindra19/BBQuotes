@@ -22,7 +22,7 @@ struct ContentView: View {
                 FetchView(show: Constants.ecName)
             }
         }
-        .preferredColorScheme(.dark)
+        .preferredColorScheme(.light)
     }
 }
 
